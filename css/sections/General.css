@@ -68,6 +68,10 @@
 html {
   font-family: "Outfit", sans-serif;
 }
+body {
+  height: 100vh;
+  overflow: hidden;
+}
 h1 {
   font-family: "Zodiak", "serif";
 }
